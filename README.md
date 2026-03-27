@@ -22,3 +22,12 @@ Next: more deployment scripts + actual Base testnet deployment (coming soon).
 - `scripts/04_account_interaction.js`
 
 All contracts and scripts are now in place. Next: actual deployment on Base Sepolia + real addresses.
+## Latest files added
+- `.gitignore`
+- `scripts/05_deploy_full.js`
+- `deploymentAddresses.json.example`
+
+All core contracts and scripts are now ready.  
+Next: run the deploy script on Base Sepolia testnet (when you have a wallet ready) and add real addresses.
+
+Total commits so far: 18+ and climbing for Base Guild "GitHub: 100+ Commits" role!
