@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract BaseOracle {
+    uint256 public price = 1000; // example Base token price in USD
+
+    function getPrice() public view returns (uint256) {
+        return price;
+    }
+
+    function updatePrice(uint256 newPrice) public {
+        price = newPrice;
+    }
+}
