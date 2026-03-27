@@ -184,3 +184,12 @@ Project now includes an oracle contract, its deployment script, and VS Code sett
 This repo is a complete, professional, and developer-friendly Base builder showcase!
 
 Total commits so far: 86+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseTimelock.sol`
+- `scripts/26_deploy_timelock.js`
+- `.github/ISSUE_TEMPLATE/bug_report.md`
+
+Project now includes a timelock contract, its deployment script, and a proper bug-report template.  
+This repo is a complete, professional, and fully community-ready Base builder showcase!
+
+Total commits so far: 90+ and climbing for Base Guild "GitHub: 100+ Commits" role!
