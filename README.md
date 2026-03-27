@@ -121,3 +121,12 @@ Project now has Node version lock, an ERC20 token contract, and its deployment s
 This repo is turning into a complete Base builder showcase!
 
 Total commits so far: 58+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `.github/dependabot.yml`
+- `contracts/BaseNFTv2.sol`
+- `scripts/19_deploy_nft_v2.js`
+
+Project now has automated dependency updates, an improved NFT contract, and its deployment script.  
+This repo is a complete, actively maintained Base builder demo!
+
+Total commits so far: 62+ and climbing for Base Guild "GitHub: 100+ Commits" role!
