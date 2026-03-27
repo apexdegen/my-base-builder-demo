@@ -193,3 +193,12 @@ Project now includes a timelock contract, its deployment script, and a proper bu
 This repo is a complete, professional, and fully community-ready Base builder showcase!
 
 Total commits so far: 90+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseFactory.sol`
+- `scripts/27_deploy_factory.js`
+- `.github/ISSUE_TEMPLATE/feature_request.md`
+
+Project now includes a factory contract, its deployment script, and a feature-request template.  
+This repo is a complete, professional, and fully community-ready Base builder showcase!
+
+Total commits so far: 94+ and climbing for Base Guild "GitHub: 100+ Commits" role!
