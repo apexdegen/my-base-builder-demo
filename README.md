@@ -76,3 +76,12 @@ Project now has a basic frontend, web3 demo script, and proper open source licen
 This is becoming a complete ERC-6551 example repo for Base.
 
 Total commits so far: 38+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `CHANGELOG.md`
+- `scripts/14_tba_interaction_v2.js`
+- `contracts/SimpleHelper.sol`
+
+Project now has a changelog, v2 interaction script, and helper contract.  
+Looks even more professional and active for Base Guild.
+
+Total commits so far: 42+ and climbing for Base Guild "GitHub: 100+ Commits" role!
