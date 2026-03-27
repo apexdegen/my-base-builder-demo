@@ -175,3 +175,12 @@ Project now includes an airdrop contract, its deployment script, and a PR templa
 This repo is a complete, professional, and community-ready Base builder showcase!
 
 Total commits so far: 82+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseOracle.sol`
+- `scripts/25_deploy_oracle.js`
+- `.vscode/settings.json`
+
+Project now includes an oracle contract, its deployment script, and VS Code settings.  
+This repo is a complete, professional, and developer-friendly Base builder showcase!
+
+Total commits so far: 86+ and climbing for Base Guild "GitHub: 100+ Commits" role!
