@@ -103,3 +103,12 @@ Project now has code formatting config, a new Base-specific helper contract, and
 This is a fully featured ERC-6551 demo repo!
 
 Total commits so far: 50+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `.eslintrc.json`
+- `contracts/ERC6551Account.sol`
+- `scripts/17_full_test_suite.js`
+
+Project now has linting config, a standard ERC-6551 account contract, and a full test suite script.  
+Super clean and professional — perfect for Base Guild "GitHub: 100+ Commits" role!
+
+Total commits so far: 54+ and climbing!
