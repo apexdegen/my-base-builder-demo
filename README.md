@@ -94,3 +94,12 @@ Project now has CI workflow, official-style registry, and deployment verificatio
 Super active and professional for Base Guild "GitHub: 100+ Commits" role!
 
 Total commits so far: 46+ and climbing!
+## Latest files added
+- `.prettierrc`
+- `contracts/BaseHelper.sol`
+- `scripts/16_deploy_helper.js`
+
+Project now has code formatting config, a new Base-specific helper contract, and its deployment script.  
+This is a fully featured ERC-6551 demo repo!
+
+Total commits so far: 50+ and climbing for Base Guild "GitHub: 100+ Commits" role!
