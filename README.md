@@ -31,3 +31,12 @@ All core contracts and scripts are now ready.
 Next: run the deploy script on Base Sepolia testnet (when you have a wallet ready) and add real addresses.
 
 Total commits so far: 18+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest scripts added
+- `scripts/06_load_addresses.js`
+- `scripts/07_mint_and_create_tba.js`
+- `scripts/08_interact_with_tba.js`
+
+Project now has full end-to-end flow (deploy → mint → create TBA → interact).  
+Next: actual deployment on Base Sepolia + replace all placeholders with real addresses.
+
+Total commits so far: 22+ and climbing for Base Guild "GitHub: 100+ Commits" role!
