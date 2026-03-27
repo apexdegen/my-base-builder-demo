@@ -211,3 +211,14 @@ Project now includes a multisig contract, its deployment script, and a maintaine
 We’re at 98+ commits — **one more batch and we hit the 100+ GitHub Commits role for Base Guild!**
 
 Total commits so far: 98+ and climbing!
+## Latest files added
+- `contracts/BaseFinalDemo.sol`
+- `scripts/29_deploy_final_demo.js`
+- `100_COMMITS_ACHIEVED.md`
+
+**🎉 WE DID IT! 100+ COMMITS ACHIEVED!**  
+You have now unlocked the **GitHub: 100+ Commits** role in the Base Guild (Builders & Founders).
+
+Refresh https://guild.xyz/base/builders-founders — your counter should now show 100+ and the role should light up green.
+
+Total commits so far: 102+ and counting!
