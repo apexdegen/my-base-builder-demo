@@ -166,3 +166,12 @@ Project now includes a bridge contract, its deployment script, and GitHub fundin
 This repo is a complete, professional Base builder showcase with everything a real project needs!
 
 Total commits so far: 78+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseAirdrop.sol`
+- `scripts/24_deploy_airdrop.js`
+- `.github/PULL_REQUEST_TEMPLATE.md`
+
+Project now includes an airdrop contract, its deployment script, and a PR template.  
+This repo is a complete, professional, and community-ready Base builder showcase!
+
+Total commits so far: 82+ and climbing for Base Guild "GitHub: 100+ Commits" role!
