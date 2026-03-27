@@ -67,3 +67,12 @@ Project now includes a mini frontend + end-to-end script + contribution guide.
 Looks more and more like a real builder project!
 
 Total commits so far: 34+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `frontend/app.js`
+- `scripts/13_web3_demo.js`
+- `LICENSE`
+
+Project now has a basic frontend, web3 demo script, and proper open source license.  
+This is becoming a complete ERC-6551 example repo for Base.
+
+Total commits so far: 38+ and climbing for Base Guild "GitHub: 100+ Commits" role!
