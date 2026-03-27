@@ -157,3 +157,12 @@ Project now includes a vesting contract, its deployment script, and a code of co
 This is a complete, professional, and community-friendly Base builder repo!
 
 Total commits so far: 74+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseBridge.sol`
+- `scripts/23_deploy_bridge.js`
+- `.github/FUNDING.yml`
+
+Project now includes a bridge contract, its deployment script, and GitHub funding config.  
+This repo is a complete, professional Base builder showcase with everything a real project needs!
+
+Total commits so far: 78+ and climbing for Base Guild "GitHub: 100+ Commits" role!
