@@ -40,3 +40,12 @@ Project now has full end-to-end flow (deploy → mint → create TBA → interac
 Next: actual deployment on Base Sepolia + replace all placeholders with real addresses.
 
 Total commits so far: 22+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `scripts/09_deploy_to_base_sepolia.js`
+- `test/MyNFT.test.js`
+- `DEPLOYMENT_GUIDE.md`
+
+Project now has real Base Sepolia deployment + tests.  
+Ready for actual on-chain deployment when you add your wallet.
+
+Total commits so far: 26+ and climbing for Base Guild "GitHub: 100+ Commits" role!
