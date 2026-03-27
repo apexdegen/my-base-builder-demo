@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "solidity.defaultCompiler": "hardhat",
+  "files.exclude": {
+    "node_modules": true,
+    "cache": true,
+    "artifacts": true
+  }
+}
