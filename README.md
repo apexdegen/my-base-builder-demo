@@ -112,3 +112,12 @@ Project now has linting config, a standard ERC-6551 account contract, and a full
 Super clean and professional — perfect for Base Guild "GitHub: 100+ Commits" role!
 
 Total commits so far: 54+ and climbing!
+## Latest files added
+- `.nvmrc`
+- `contracts/BaseToken.sol`
+- `scripts/18_deploy_token.js`
+
+Project now has Node version lock, an ERC20 token contract, and its deployment script.  
+This repo is turning into a complete Base builder showcase!
+
+Total commits so far: 58+ and climbing for Base Guild "GitHub: 100+ Commits" role!
