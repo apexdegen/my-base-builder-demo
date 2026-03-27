@@ -58,3 +58,12 @@ Now includes a full improved Token-Bound Account implementation + test.
 Project is becoming a solid ERC-6551 demo for Base.
 
 Total commits so far: 30+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `index.html` (simple frontend demo)
+- `scripts/12_end_to_end_demo.js`
+- `CONTRIBUTING.md`
+
+Project now includes a mini frontend + end-to-end script + contribution guide.  
+Looks more and more like a real builder project!
+
+Total commits so far: 34+ and climbing for Base Guild "GitHub: 100+ Commits" role!
