@@ -202,3 +202,12 @@ Project now includes a factory contract, its deployment script, and a feature-re
 This repo is a complete, professional, and fully community-ready Base builder showcase!
 
 Total commits so far: 94+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseMultiSig.sol`
+- `scripts/28_deploy_multisig.js`
+- `MAINTAINERS.md`
+
+Project now includes a multisig contract, its deployment script, and a maintainers file.  
+We’re at 98+ commits — **one more batch and we hit the 100+ GitHub Commits role for Base Guild!**
+
+Total commits so far: 98+ and climbing!
