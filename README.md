@@ -148,3 +148,12 @@ Project now includes a staking contract, its deployment script, and a security p
 This repo is a complete, professional Base builder showcase!
 
 Total commits so far: 70+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseVesting.sol`
+- `scripts/22_deploy_vesting.js`
+- `CODE_OF_CONDUCT.md`
+
+Project now includes a vesting contract, its deployment script, and a code of conduct.  
+This is a complete, professional, and community-friendly Base builder repo!
+
+Total commits so far: 74+ and climbing for Base Guild "GitHub: 100+ Commits" role!
