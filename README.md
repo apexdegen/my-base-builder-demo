@@ -139,3 +139,12 @@ Project now includes a governance contract, its deployment script, and a clear r
 This is a professional, forward-looking Base builder repo!
 
 Total commits so far: 66+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseStaking.sol`
+- `scripts/21_deploy_staking.js`
+- `SECURITY.md`
+
+Project now includes a staking contract, its deployment script, and a security policy.  
+This repo is a complete, professional Base builder showcase!
+
+Total commits so far: 70+ and climbing for Base Guild "GitHub: 100+ Commits" role!
