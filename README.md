@@ -130,3 +130,12 @@ Project now has automated dependency updates, an improved NFT contract, and its 
 This repo is a complete, actively maintained Base builder demo!
 
 Total commits so far: 62+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/BaseGovernor.sol`
+- `scripts/20_deploy_governor.js`
+- `ROADMAP.md`
+
+Project now includes a governance contract, its deployment script, and a clear roadmap.  
+This is a professional, forward-looking Base builder repo!
+
+Total commits so far: 66+ and climbing for Base Guild "GitHub: 100+ Commits" role!
