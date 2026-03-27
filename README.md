@@ -85,3 +85,12 @@ Project now has a changelog, v2 interaction script, and helper contract.
 Looks even more professional and active for Base Guild.
 
 Total commits so far: 42+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `.github/workflows/ci.yml`
+- `contracts/ERC6551Registry.sol`
+- `scripts/15_verify_deployment.js`
+
+Project now has CI workflow, official-style registry, and deployment verification script.  
+Super active and professional for Base Guild "GitHub: 100+ Commits" role!
+
+Total commits so far: 46+ and climbing!
