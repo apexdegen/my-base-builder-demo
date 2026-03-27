@@ -10,3 +10,9 @@ Working toward 100+ public commits for Base Guild Builders role.
 - `contracts/TokenBoundAccount.sol`
 
 Working toward 100+ public commits for Base Guild "GitHub: 100+ Commits" role.
+## New files added
+- `hardhat.config.js`
+- `.env.example`
+- `scripts/01_deploy_contracts.js`
+
+Next: more deployment scripts + actual Base testnet deployment (coming soon).
