@@ -49,3 +49,12 @@ Project now has real Base Sepolia deployment + tests.
 Ready for actual on-chain deployment when you add your wallet.
 
 Total commits so far: 26+ and climbing for Base Guild "GitHub: 100+ Commits" role!
+## Latest files added
+- `contracts/ImprovedTokenBoundAccount.sol`
+- `scripts/11_deploy_tba_implementation.js`
+- `test/ImprovedTBA.test.js`
+
+Now includes a full improved Token-Bound Account implementation + test.  
+Project is becoming a solid ERC-6551 demo for Base.
+
+Total commits so far: 30+ and climbing for Base Guild "GitHub: 100+ Commits" role!
